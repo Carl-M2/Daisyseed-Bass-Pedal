@@ -238,7 +238,7 @@ The cents deviation value is remapped from the range [−100, 100] to [−3, 3] 
 
 The blue circle's blending mode is set to **exclusion**. When it overlaps the yellow circle at position 0, the two colors combine to produce green — signaling that the note is in tune. This follows standard tuner conventions where a centered green indicator means the pitch is correct.
 
-![Tuner Display — E1 in tune](assets/tuner_display.png)
+![Tuner Display — E1 in tune](<img width="1216" height="924" alt="uituner" src="https://github.com/user-attachments/assets/f34afc83-6716-4601-9c6f-9181e2a7cd76" />)
 *Figure 1: The tuner display showing pitch E1 in tune. The blue and yellow circles overlap at center, producing a green result via exclusion blending.*
 
 ---
