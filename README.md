@@ -1,4 +1,4 @@
-# Daisy Seed Bass Multieffects Pedal — Project Documentation
+# Daisy Seed Bass Multieffects Pedal by Carl Mitchell — Project Documentation
 
 ---
 
